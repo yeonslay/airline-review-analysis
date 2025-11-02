@@ -9,10 +9,10 @@
 
 | 단계 | 파일명 / 폴더 | 설명 |
 |------|----------------|------|
-| 1️⃣ 크롤링 | `scraper/` | 항공사별 리뷰 데이터를 수집하는 스크립트 |
+| 1️⃣ 크롤링 | `review_crawling.ipynb` | 항공사별 리뷰 데이터를 수집하는 스크립트 |
 | 2️⃣ 워드클라우드 | `wordcloud.ipynb` | 리뷰 텍스트 전처리 및 시각화 |
-| 3️⃣ 감성 분석 | `sentiment_analysis.ipynb` | 문장 단위 감성 분류 (긍정/중립/부정) |
-| 4️⃣ LDA 토픽 모델링 | `lda_analysis.ipynb` | 항공사별 주요 주제(Topic) 추출 |
+| 3️⃣ 감성 분석 | `review_to_sentence_sentiment analysis.ipynb` | 문장 단위 감성 분류 (긍정/중립/부정) |
+| 4️⃣ LDA 토픽 모델링 | `topic_modeling(lda).ipynb` | 항공사별 주요 주제(Topic) 추출 |
 
 ---
 
